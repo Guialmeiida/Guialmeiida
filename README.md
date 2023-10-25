@@ -25,5 +25,5 @@ Olááá! Eu sou o Gui Almeida 👋
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/rafaballerini/Guialmeiida/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Guialmeiida/Guialmeiida/blob/output/github-contribution-grid-snake.svg)
   
