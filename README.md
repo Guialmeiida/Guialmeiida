@@ -4,7 +4,7 @@ Olááá! Eu sou o Gui Almeida 👋
 - 🌱 Atualmente estou estudando HTML, CSS e Javascript na plataforma ALURA, e também em aulas presenciais da Infinity School.
 - 🤔 "Não existe perguntas idiotas. Existem idiotas que não perguntam."
 - 😄 Sempre disposto a aprender coisas novas!
-- ⚡ Tenho 6 dedos nas mãos, isso me dá uma vantagem ao programar. (Tô zoando).
+- ⚡"A única forma dos homens chegarem a algum lugar é deixando algo para trás". 
 
 
    <div>
