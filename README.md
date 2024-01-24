@@ -1,6 +1,6 @@
 Olááá! Eu sou o Gui Almeida 👋
 
-- 🔭 Hoje trabalho como analista de suprimentos em uma empresa de engenharia dentro da PETROBRAS, ficando responsável por todas as etapas de: Logistica, Armazenamento de produtos, Negociação e processos financeiros.
+- 🔭 Hoje trabalho como analista de suprimentos em uma empresa de engenharia dentro da Petrobras, ficando responsável por todas as etapas de: Logistica, Armazenamento de produtos, Negociação e processos financeiros.
 - 🌱 Atualmente estou estudando HTML, CSS e Javascript na plataforma ALURA, e também em aulas presenciais da Infinity School.
 - 🤔 "Não existe perguntas idiotas. Existem idiotas que não perguntam."
 - 😄 Sempre disposto a aprender coisas novas!
